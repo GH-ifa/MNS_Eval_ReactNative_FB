@@ -37,11 +37,4 @@ const App = () => {
   );
 };
 
-// modal for camera
-// notification
-// document picker
-// component for button?
-// record video demo
-//SafeAreaProvider?
-
 export default App;
